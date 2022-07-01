@@ -1,0 +1,16 @@
+{
+    "statut-logs": false,
+    "statut-bienvenue": true,
+    "statut-suggest": true,
+    "role-bienvenue": false,
+    "bios-bot": "SIUUUU 1m TIMES",
+    "id_logs": "965387177787789342",
+    "id_bienvenue": "965205749489877015",
+    "role_bienvenue": "965333094339059803",
+    "message_bienvenue": "Hey, bienvenue à toi sur le serveur development",
+    "banword_list": "ZZZZZZZ,",
+    "prefix": "+",
+    "id_suggest": "",
+    "statutType": "LISTENING",
+    "cryptoApiKey": "687c6f65-2eae-441b-8abc-b1a24635cb51"
+}
